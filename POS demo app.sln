@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS demo app", "POS demo app\POS demo app.csproj", "{A5C2DF27-9CAC-4FF2-8D56-1518149E6541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C2DF27-9CAC-4FF2-8D56-1518149E6541}.Debug|x86.ActiveCfg = Debug|x86
+		{A5C2DF27-9CAC-4FF2-8D56-1518149E6541}.Debug|x86.Build.0 = Debug|x86
+		{A5C2DF27-9CAC-4FF2-8D56-1518149E6541}.Release|x86.ActiveCfg = Release|x86
+		{A5C2DF27-9CAC-4FF2-8D56-1518149E6541}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
